@@ -11,7 +11,7 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "Asirbad",
+  "author": "KirtiPrasad",
   "license": "ISC",
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.15.3",
